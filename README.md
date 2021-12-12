@@ -1,6 +1,7 @@
 Feel free to check out my pinned repositories for some project ideas!
 
 <p>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" />
@@ -11,6 +12,7 @@ Feel free to check out my pinned repositories for some project ideas!
     <img src="https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+    
 </p>
 
 

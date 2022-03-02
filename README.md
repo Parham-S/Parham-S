@@ -16,8 +16,7 @@
 </p>
 
 
-## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parham-s&show_icons=true&theme=onedark&count_private=true&hide=stars,prs)
+
 
 ### Connect With Me
 <p>

@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00000F?&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-46a2f1?&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Heroku-430098?&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/GitLab-330F63?&logo=gitlab&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
